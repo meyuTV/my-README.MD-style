@@ -957,6 +957,7 @@ ol ul {
 }
 
 li {
+  list-style: inside;
   line-height: 20px;
 }
 
